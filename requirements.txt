@@ -1,7 +1,7 @@
+networkx
 streamlit 
 numpy 
 pandas 
-networkx 
 pywikibot
 
 math
